@@ -23,8 +23,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## UIButton
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
-* [UIButton中的三个UIEdgeInsets属性（一）](http://www.superqq.com/blog/2015/07/03/uibuttonzhong-de-san-ge-uiedgeinsetsshu-xing-%28%5B%3F%5D-%29/) - 三个属性分别为`contentEdgeInsets`、`titleEdgeInsets`、`titleEdgeInsets`。
-* [UIButton中的三个UIEdgeInsets属性（二）](http://www.superqq.com/blog/2015/07/04/uibuttonzhong-de-san-ge-uiedgeinsetsshu-xing-%28er-%29/) - 三个属性分别为`contentEdgeInsets`、`titleEdgeInsets`、`titleEdgeInsets`。
+* [UIButton中的三个UIEdgeInsets属性（一）](http://www.superqq.com/blog/2015/07/03/uibuttonzhong-de-san-ge-uiedgeinsetsshu-xing-%28%5B%3F%5D-%29/) - 三个属性分别为`contentEdgeInsets`, `titleEdgeInsets`, `titleEdgeInsets`。
+* [UIButton中的三个UIEdgeInsets属性（二）](http://www.superqq.com/blog/2015/07/04/uibuttonzhong-de-san-ge-uiedgeinsetsshu-xing-%28er-%29/) - 三个属性分别为`contentEdgeInsets`, `titleEdgeInsets`, `titleEdgeInsets`。
 
 # 框架
 
