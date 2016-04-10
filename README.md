@@ -8,6 +8,9 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIButton](#uibutton) 
 - [框架](#框架)
   - [AVFoundation](#avfoundation)
+- [动画](#动画)
+  - [开源的动画框架](#开源的动画框架)
+  - [介绍动画的博文](#介绍动画的博文)
 - [工具](#工具)
   - [Markdown](#markdown)
     - [在线编辑器](#在线编辑器)
@@ -26,11 +29,20 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## AVFoundation
 * [iOS视频边下边播](http://www.jianshu.com/p/990ee3db0563) - iOS视频边下边播--缓存播放数据流
 
+# 动画
+
+## 开源的动画框架
+* [MBMotion](https://github.com/mmoaay/MBMotion) - 随便实现的特效，正在不断丰富中，相关文章介绍[非常棒的特效-MBMotion](http://www.superqq.com/blog/2015/12/11/mbmotion-great-effect/)
+
+## 介绍动画的博文
+
+TODO: 
+
 # 工具
 
 ## Markdown
 ### 在线编辑器
-* [Cmd Markdown在线编辑器](https://www.zybuluo.com/mdeditor)
+* [Cmd Markdown在线编辑器](https://www.zybuluo.com/mdeditor) - 国内的一款markdown在线编辑器，非常的好用，推荐。
 * [dillinger](http://dillinger.io/) - 漂亮强大，支持md, html, pdf 文件导出。支持dropbox, onedrive，google drive, github. 来自国外，可能不够稳定。 
 
 ### 语法
