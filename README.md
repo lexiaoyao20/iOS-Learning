@@ -11,7 +11,9 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [动画](#动画)
   - [开源的动画框架](#开源的动画框架)
   - [介绍动画的博文](#介绍动画的博文)
+- [Runtime](#runtime)
 - [工具](#工具)
+  - [Xcode插件](#xcode插件)
   - [Markdown](#markdown)
     - [在线编辑器](#在线编辑器)
     - [语法](语法)
@@ -39,7 +41,15 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 TODO: 
 
+# Runtime
+
+* [黑魔法——“低版本中使用高版本中出现的类”之技术实现原理详解](http://www.jianshu.com/p/55180ade32d1)
+
 # 工具
+
+## Xcode插件
+
+* [Injection Plugin for Xcode](https://github.com/johnno1962/injectionforxcode) - Injection Plugin For Xcode 是 Xcode 上的一个插件。利用它可以修改应用代码，实时在模拟器或实机上看到效果而不需要重启应用。
 
 ## Markdown
 ### 在线编辑器
