@@ -49,6 +49,7 @@ TODO:
 # Git教程
 
 * [Pro Git 第二版](https://git-scm.com/book/zh/v2) - 学习Git不错的入门教程
+* [Pro Git 第一版](http://git.oschina.net/progit/)
 * [廖雪峰的官方网站 - Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 # 工具
