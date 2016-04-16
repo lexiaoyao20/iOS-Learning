@@ -12,6 +12,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [开源的动画框架](#开源的动画框架)
   - [介绍动画的博文](#介绍动画的博文)
 - [Runtime](#runtime)
+- [Git教程](#git教程)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
   - [Markdown](#markdown)
@@ -44,6 +45,10 @@ TODO:
 # Runtime
 
 * [黑魔法——“低版本中使用高版本中出现的类”之技术实现原理详解](http://www.jianshu.com/p/55180ade32d1)
+
+# Git教程
+
+* [廖雪峰的官方网站 - Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 # 工具
 
