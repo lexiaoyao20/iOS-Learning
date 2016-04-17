@@ -12,6 +12,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [开源的动画框架](#开源的动画框架)
   - [介绍动画的博文](#介绍动画的博文)
 - [Runtime](#runtime)
+- [设计模式](#设计模式)
 - [Git教程](#git教程)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
@@ -45,6 +46,10 @@ TODO:
 # Runtime
 
 * [黑魔法——“低版本中使用高版本中出现的类”之技术实现原理详解](http://www.jianshu.com/p/55180ade32d1)
+
+# 设计模式
+
+* [iOS 中的设计模式 (Swift版本) Part 1 ](http://blog.callmewhy.com/2014/12/29/introducing-ios-design-patterns-in-swift-part-1/) - 原文英文版本请点击:[ Introducing iOS Design Patterns in Swift – Part 1/2 ](https://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-part-1)
 
 # Git教程
 
