@@ -12,6 +12,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [开源的动画框架](#开源的动画框架)
   - [介绍动画的博文](#介绍动画的博文)
 - [Runtime](#runtime)
+- [Category](#category)
+  - [UIImage](#uiimage)
 - [设计模式](#设计模式)
 - [Git教程](#git教程)
 - [工具](#工具)
@@ -46,6 +48,14 @@ TODO:
 # Runtime
 
 * [黑魔法——“低版本中使用高版本中出现的类”之技术实现原理详解](http://www.jianshu.com/p/55180ade32d1)
+
+# Category
+
+收集的一些有用的分类
+
+## UIImage
+
+* [iOS中使用blend改变图片颜色](https://onevcat.com/2013/04/using-blending-in-ios/) - 相应的[Demo](https://github.com/onevcat/VVImageTint)
 
 # 设计模式
 
