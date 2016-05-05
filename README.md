@@ -17,6 +17,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [Category](#category)
   - [UIImage](#uiimage)
 - [设计模式](#设计模式)
+- [持续集成](#持续集成)
 - [Git教程](#git教程)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
@@ -67,6 +68,16 @@ TODO:
 # 设计模式
 
 * [iOS 中的设计模式 (Swift版本) Part 1 ](http://blog.callmewhy.com/2014/12/29/introducing-ios-design-patterns-in-swift-part-1/) - 原文英文版本请点击:[ Introducing iOS Design Patterns in Swift – Part 1/2 ](https://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-part-1)
+
+# 持续集成
+
+* [构建iOS持续集成平台（一）——自动化构建和依赖管理](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part1)
+* [构建iOS持续集成平台（二）——测试框架](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part2)
+* [构建iOS持续集成平台（三）——CI服务器与自动化部署](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part3)
+* [Jenkins+GitHub+Xcode+fir搭了一个持续集成环境](http://www.jianshu.com/p/a17167274463#)
+* [豆瓣移动App持续集成和测试实践](http://wenku.it168.com/d_001515405.shtml)
+* [在已有项目上构建持续集成平台](http://www.jianshu.com/p/39e4c8654d44#ios)
+* [fir.im weekly - 「 持续集成 」实践教程合集](http://blog.fir.im/fir_im_weekly160505/)
 
 # Git教程
 
