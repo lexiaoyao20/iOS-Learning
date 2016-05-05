@@ -19,6 +19,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [设计模式](#设计模式)
 - [持续集成](#持续集成)
 - [Git教程](#git教程)
+- [书籍](#书籍)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
   - [Markdown](#markdown)
@@ -84,6 +85,10 @@ TODO:
 * [Pro Git 第二版](https://git-scm.com/book/zh/v2) - 学习Git不错的入门教程
 * [Pro Git 第一版](http://git.oschina.net/progit/)
 * [廖雪峰的官方网站 - Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+# 书籍
+
+* [禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）](https://github.com/oa414/objc-zen-book-cn)
 
 # 工具
 
