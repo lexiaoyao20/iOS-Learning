@@ -89,6 +89,8 @@ TODO:
 
 ## Xcode插件
 
+* [Xcode升级插件失效的解决办法以及使用](http://www.jianshu.com/p/df44a2e7ee9a)
+
 * [Injection Plugin for Xcode](https://github.com/johnno1962/injectionforxcode) - Injection Plugin For Xcode 是 Xcode 上的一个插件。利用它可以修改应用代码，实时在模拟器或实机上看到效果而不需要重启应用。
 
 ## Markdown
