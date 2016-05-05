@@ -11,6 +11,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [动画](#动画)
   - [开源的动画框架](#开源的动画框架)
   - [介绍动画的博文](#介绍动画的博文)
+- [并发-多线程](#并发-多线程)
+  - [GCD](#gcd)
 - [Runtime](#runtime)
 - [Category](#category)
   - [UIImage](#uiimage)
@@ -44,6 +46,11 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## 介绍动画的博文
 
 TODO: 
+
+# 并发-多线程
+
+# GCD
+* [GCD 使用指南](http://swift.gg/2016/05/05/the-gcd-handbook/) - 相应地英文原文：[http://khanlou.com/2016/04/the-GCD-handbook/](http://khanlou.com/2016/04/the-GCD-handbook/)
 
 # Runtime
 
