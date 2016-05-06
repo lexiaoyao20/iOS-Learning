@@ -17,6 +17,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [Category](#category)
   - [UIImage](#uiimage)
 - [设计模式](#设计模式)
+- [架构](#架构)
 - [持续集成](#持续集成)
 - [Git教程](#git教程)
 - [书籍](#书籍)
@@ -70,6 +71,10 @@ TODO:
 # 设计模式
 
 * [iOS 中的设计模式 (Swift版本) Part 1 ](http://blog.callmewhy.com/2014/12/29/introducing-ios-design-patterns-in-swift-part-1/) - 原文英文版本请点击:[ Introducing iOS Design Patterns in Swift – Part 1/2 ](https://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-part-1)
+
+# 架构
+
+* [iOS移动端架构的那些事](http://www.jianshu.com/p/15e5b83ab70e)
 
 # 持续集成
 
