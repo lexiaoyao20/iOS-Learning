@@ -27,6 +27,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [书籍](#书籍)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
+  - [Cocoapods](#Cocoapods)
+  - [Hexo个人博客](#Hexo个人博客)
   - [Markdown](#markdown)
     - [在线编辑器](#在线编辑器)
     - [语法](语法)
@@ -128,6 +130,15 @@ TODO:
 ## Cocoapods
 
 * [理解Cocoapods](https://segmentfault.com/a/1190000005041357) - 对于做 iOS 开发的朋友来说，Cocoapods 是一件不必可少的得利工具，它是一个管理第三方库，并且解决其依赖关系的工具，但是有很多朋友对其运作的机制知其然却不知其所以然
+
+## Hexo个人博客
+
+* [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 摘要：这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程，这是我写得最长的一篇教程。我想将我搭建独立博客的过程在一篇文章中尽可能详细地写出来，希望能给后来者一个明确的指引，同时用这篇教程开篇，正式开始我的第八大洲之旅。
+* [Mac下搭建Hexo博客教程](http://yebujimo.com/2015/03/15/Mac%E4%B8%8B%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/)
+
+### Hexo 主题
+
+* [https://github.com/MOxFIVE/hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee)
 
 ## Markdown
 ### 在线编辑器
