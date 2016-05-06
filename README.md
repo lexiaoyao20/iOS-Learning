@@ -50,7 +50,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ### pop
 
-* [http://ios.jobbole.com/84717/](http://ios.jobbole.com/84717/)
+* [聊聊动画引擎 pop](http://ios.jobbole.com/84717/)
 
 ## 介绍动画的博文
 
