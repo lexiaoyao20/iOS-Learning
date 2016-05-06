@@ -8,6 +8,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIButton](#uibutton) 
 - [框架](#框架)
   - [AVFoundation](#avfoundation)
+  - [Quick Look Framework](#quick-look-framework)
 - [动画](#动画)
   - [开源的动画框架](#开源的动画框架)
     - [pop](#pop)
@@ -43,6 +44,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## AVFoundation
 * [iOS视频边下边播](http://www.jianshu.com/p/990ee3db0563) - iOS视频边下边播--缓存播放数据流
+
+## Quick Look Framework
+
+* [使用Quick Look框架对文件进行预览](https://segmentfault.com/a/1190000005010273) - 英文原文链接：[http://www.appcoda.com/quick-look-framework/](http://www.appcoda.com/quick-look-framework/)
 
 # 动画
 
