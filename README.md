@@ -10,6 +10,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [AVFoundation](#avfoundation)
 - [动画](#动画)
   - [开源的动画框架](#开源的动画框架)
+    - [pop](#pop)
   - [介绍动画的博文](#介绍动画的博文)
 - [并发-多线程](#并发-多线程)
   - [GCD](#gcd)
@@ -46,6 +47,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## 开源的动画框架
 * [MBMotion](https://github.com/mmoaay/MBMotion) - 随便实现的特效，正在不断丰富中，相关文章介绍[非常棒的特效-MBMotion](http://www.superqq.com/blog/2015/12/11/mbmotion-great-effect/)
+
+### pop
+
+* [http://ios.jobbole.com/84717/](http://ios.jobbole.com/84717/)
 
 ## 介绍动画的博文
 
