@@ -104,6 +104,10 @@ TODO:
 
 * [Injection Plugin for Xcode](https://github.com/johnno1962/injectionforxcode) - Injection Plugin For Xcode 是 Xcode 上的一个插件。利用它可以修改应用代码，实时在模拟器或实机上看到效果而不需要重启应用。
 
+## Cocoapods
+
+* [理解Cocoapods](https://segmentfault.com/a/1190000005041357) - 对于做 iOS 开发的朋友来说，Cocoapods 是一件不必可少的得利工具，它是一个管理第三方库，并且解决其依赖关系的工具，但是有很多朋友对其运作的机制知其然却不知其所以然
+
 ## Markdown
 ### 在线编辑器
 * [Cmd Markdown在线编辑器](https://www.zybuluo.com/mdeditor) - 国内的一款markdown在线编辑器，非常的好用，推荐。
