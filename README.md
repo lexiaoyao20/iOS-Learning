@@ -16,6 +16,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [Runtime](#runtime)
 - [Category](#category)
   - [UIImage](#uiimage)
+- [性能优化](#性能优化)
 - [设计模式](#设计模式)
 - [架构](#架构)
 - [持续集成](#持续集成)
@@ -67,6 +68,10 @@ TODO:
 ## UIImage
 
 * [iOS中使用blend改变图片颜色](https://onevcat.com/2013/04/using-blending-in-ios/) - 相应的[Demo](https://github.com/onevcat/VVImageTint)
+
+# 性能优化
+
+* [微信读书 iOS 性能优化总结](http://gold.xitu.io/entry/572866f62e958a00657cc19e) - 微信读书作为一款阅读类的新产品，目前还处于快速迭代，不断尝试的过程中，性能问题也在业务的不断累积中逐渐体现出来。最近的 1.3.0 版本发布后，关于性能问题的用户反馈逐渐增多，为此，团队开始做一些针对性的性能问题优化。本文将从发现问题、解决问题和预防问题三个方面进行总结。
 
 # 设计模式
 
