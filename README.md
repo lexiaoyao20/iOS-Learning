@@ -90,6 +90,7 @@ TODO:
 # 设计模式
 
 * [iOS 中的设计模式 (Swift版本) Part 1 ](http://blog.callmewhy.com/2014/12/29/introducing-ios-design-patterns-in-swift-part-1/) - 原文英文版本请点击:[ Introducing iOS Design Patterns in Swift – Part 1/2 ](https://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-part-1)
+* [OODesign](http://www.oodesign.com/) - 一个介绍各个设计模式的网站
 
 # 架构设计
 
