@@ -28,7 +28,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [书籍](#书籍)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
-  - [Cocoapods](#Cocoapods)
+  - [Cocoapods](#cocoapods)
   - [Hexo个人博客](#hexo个人博客)
   - [Markdown](#markdown)
     - [在线编辑器](#在线编辑器)
