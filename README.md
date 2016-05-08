@@ -9,6 +9,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [框架](#框架)
   - [AVFoundation](#avfoundation)
   - [Quick Look Framework](#quick-look-framework)
+  - [Quartz 2D](#quartz-2d)
 - [动画](#动画)
   - [开源的动画框架](#开源的动画框架)
     - [pop](#pop)
@@ -50,6 +51,14 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## Quick Look Framework
 
 * [使用Quick Look框架对文件进行预览](https://segmentfault.com/a/1190000005010273) - 英文原文链接：[http://www.appcoda.com/quick-look-framework/](http://www.appcoda.com/quick-look-framework/)
+
+## Quartz 2D
+
+* [Quartz 2D Programming Guide](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html) - 官方教程
+* [Quartz 2D编程指南之一：概览](http://southpeak.github.io/blog/2014/11/10/quartz-2dbian-cheng-zhi-nan-zhi-%5B%3F%5D-:gai-lan/) - 南峰子对[Quartz 2D Programming Guide](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html)的译文，值得推荐。
+* [Graphing with Quartz 2D](http://www.sitepoint.com/series/graphing-with-quartz-2d/) - 几个Demo.
+* [An Introduction to Quartz 2D](http://code.tutsplus.com/tutorials/an-introduction-to-quartz-2d--cms-24267)
+
 
 # 动画
 
