@@ -6,6 +6,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 - [控件](#控件)
   - [UIButton](#uibutton) 
+  - [Chart(图表控件)](#chart(图表控件))
+    - [K线图](#k线图)
 - [框架](#框架)
   - [AVFoundation](#avfoundation)
   - [Quick Look Framework](#quick-look-framework)
@@ -42,6 +44,15 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIButton
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
 * [UIButton 的 imageEdgeInsets 和 titleEdgeInsets](http://www.jianshu.com/p/62850b201049)
+
+## 图表控件
+
+### K线图
+
+* [YKLineChartView](https://github.com/chenyk0317/YKLineChartView) - iOS 股票的K线图 分时图。
+* [Cocoa-Charts](https://github.com/limccn/Cocoa-Charts) - Open-source iPhone/iPad graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc. Based on iOS graph SDK, Using native Objective-c Codes.
+* [BBStockChartView](https://github.com/chenxiaoyu3/BBStockChartView) - An iOS stock chart view, K-Line, volume Line.
+* [KlineInSwift](https://github.com/mengmanzbh/KlineInSwift) - 用swift写的K线图
 
 # 框架
 
