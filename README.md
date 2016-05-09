@@ -45,7 +45,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
 * [UIButton 的 imageEdgeInsets 和 titleEdgeInsets](http://www.jianshu.com/p/62850b201049)
 
-## 图表控件
+## Chart(图表控件)
 
 ### K线图
 
