@@ -47,6 +47,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## Chart-图表控件
 
+* [iOS-Chats](https://github.com/danielgindi/Charts) -  Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. 
+
 ### K线图
 
 * [YKLineChartView](https://github.com/chenyk0317/YKLineChartView) - iOS 股票的K线图 分时图。
