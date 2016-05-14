@@ -166,6 +166,7 @@ TODO:
 
 ### Hexo 主题
 
+* [NexT](https://github.com/iissnan/hexo-theme-next) - 目前使用人数做多的一个博客主题
 * [https://github.com/MOxFIVE/hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee)
 
 ## Markdown
