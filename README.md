@@ -56,6 +56,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [Cocoa-Charts](https://github.com/limccn/Cocoa-Charts) - Open-source iPhone/iPad graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc. Based on iOS graph SDK, Using native Objective-c Codes.
 * [BBStockChartView](https://github.com/chenxiaoyu3/BBStockChartView) - An iOS stock chart view, K-Line, volume Line.
 * [KlineInSwift](https://github.com/mengmanzbh/KlineInSwift) - 用swift写的K线图
+* [Y_KLine](https://github.com/yate1996/Y_KLine)
 
 # 框架
 
