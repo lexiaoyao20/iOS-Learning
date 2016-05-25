@@ -6,6 +6,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 - [控件](#控件)
   - [UIButton](#uibutton) 
+  - [UICollectionView](#uicollectionview)
   - [Chart-图表控件](#chart-图表控件)
     - [K线图](#k线图)
 - [框架](#框架)
@@ -45,6 +46,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIButton
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
 * [UIButton 的 imageEdgeInsets 和 titleEdgeInsets](http://www.jianshu.com/p/62850b201049)
+
+## UICollectionView
+
+* [UICollectionView 使用 介绍](http://blog.csdn.net/sqc3375177/article/details/17218455)
 
 ## Chart-图表控件
 
