@@ -173,6 +173,13 @@ TODO:
 
 * [理解Cocoapods](https://segmentfault.com/a/1190000005041357) - 对于做 iOS 开发的朋友来说，Cocoapods 是一件不必可少的得利工具，它是一个管理第三方库，并且解决其依赖关系的工具，但是有很多朋友对其运作的机制知其然却不知其所以然
 
+Cocoapods系列教程
+* [CocoaPods的简介及安装和使用 ](http://blog.csdn.net/eduora_meimei/article/details/44410373)
+* [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
+* [如何写一个Pod，并发布到CocoaPods上 ](http://blog.csdn.net/becomedragonlong/article/details/45933345#0-tsina-1-22915-397232)
+* [CocoaPods的一些略为高级一丁点的使用](http://www.cocoachina.com/ios/20150916/13384.html)
+* [在Swift中使用CocoaPods](http://andelf.github.io/blog/2014/06/23/use-cocoapods-with-swift/)
+
 ## Hexo个人博客
 
 * [hexo常用命令笔记](https://segmentfault.com/a/1190000002632530)
