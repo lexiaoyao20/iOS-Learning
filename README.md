@@ -7,6 +7,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UICollectionView](#uicollectionview)
+  - [Slider](#slider)
   - [Chart-图表控件](#chart-图表控件)
     - [K线图](#k线图)
 - [框架](#框架)
@@ -50,6 +51,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UICollectionView
 
 * [UICollectionView 使用 介绍](http://blog.csdn.net/sqc3375177/article/details/17218455)
+
+## Slider
+
+* [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 
 ## Chart-图表控件
 
