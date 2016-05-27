@@ -52,6 +52,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UICollectionView
 
 * [UICollectionView 使用 介绍](http://blog.csdn.net/sqc3375177/article/details/17218455)
+* [WWDC 2012 Session笔记——205 Introducing Collection Views](https://onevcat.com/2012/06/introducing-collection-views/)
 
 ## Slider
 
