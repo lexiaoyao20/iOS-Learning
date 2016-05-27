@@ -8,6 +8,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIButton](#uibutton) 
   - [UICollectionView](#uicollectionview)
   - [Slider](#slider)
+  - [WebBrowser](#webbrowser)
   - [Chart-图表控件](#chart-图表控件)
     - [K线图](#k线图)
 - [框架](#框架)
@@ -55,6 +56,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## Slider
 
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
+
+## WebBrowser
+
+* [KINWebBrowser](https://github.com/dfmuir/KINWebBrowser) - KINWebBrowser is a web browser module for your apps. Powered by WKWebView on iOS 8. Backwards compatible with iOS 7 using UIWebView.
 
 ## Chart-图表控件
 
