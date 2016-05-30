@@ -190,7 +190,7 @@ Cocoapods系列教程
 
 另外一个系列的教程
 * [Cocoapods系列教程(一)——入门](http://www.pluto-y.com/cocoapods-getting-stared/)
-* [Cocoapods系列教程(三)——私有库管理和模块化管理 ](http://blog.csdn.net/youtk21ai/article/details/50750300)
+* [Cocoapods系列教程(二)——开源主义接班人 ](http://www.pluto-y.com/cocoapods-contribute-for-open-source/)
 * [Cocoapods系列教程(三)——私有库管理和模块化管理 ](http://blog.csdn.net/youtk21ai/article/details/50762936)
 
 ## Hexo个人博客
