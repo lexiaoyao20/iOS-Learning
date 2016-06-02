@@ -6,6 +6,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 - [控件](#控件)
   - [UIButton](#uibutton) 
+  - [UINavigationBar](#uinavigationbar)
   - [UICollectionView](#uicollectionview)
   - [Slider](#slider)
   - [WebBrowser](#webbrowser)
@@ -48,6 +49,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIButton
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
 * [UIButton 的 imageEdgeInsets 和 titleEdgeInsets](http://www.jianshu.com/p/62850b201049)
+
+## UINavigationBar
+
+* [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars! （ScorllView滚动时，自动隐藏和显示UINavigationBar）
 
 ## UICollectionView
 
