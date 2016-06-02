@@ -95,6 +95,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [Quartz 2D编程指南之一：概览](http://southpeak.github.io/blog/2014/11/10/quartz-2dbian-cheng-zhi-nan-zhi-%5B%3F%5D-:gai-lan/) - 南峰子对[Quartz 2D Programming Guide](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html)的译文，值得推荐。
 * [Graphing with Quartz 2D](http://www.sitepoint.com/series/graphing-with-quartz-2d/) - 几个Demo.
 * [An Introduction to Quartz 2D](http://code.tutsplus.com/tutorials/an-introduction-to-quartz-2d--cms-24267)
+* [Quartz2D 编程指南（一）概览、图形上下文、路径、颜色与颜色空间 ](http://www.jianshu.com/p/eb6bd4b0f9a5) - 本篇博客主要是对官方文档的总结与补充
 
 ## ResearchKit
 
