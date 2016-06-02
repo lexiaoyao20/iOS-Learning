@@ -60,6 +60,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [WWDC 2012 Session笔记——205 Introducing Collection Views](https://onevcat.com/2012/06/introducing-collection-views/)
 * [WWDC 2012 Session笔记——219 Advanced Collection Views and Building Custom Layouts](https://onevcat.com/2012/08/advanced-collection-view/)
 
+拖拽排序功能实现：
+* [通过layout实现可拖拽自动排序的UICollectionView](http://www.jianshu.com/p/8d1bf1838882) - 英文[原文](http://blog.karmadust.com/drag-and-rearrange-uicollectionviews-through-layouts/)
+* [http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/)
+
 ## Slider
 
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
