@@ -63,6 +63,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 拖拽排序功能实现：
 * [通过layout实现可拖拽自动排序的UICollectionView](http://www.jianshu.com/p/8d1bf1838882) - 英文[原文](http://blog.karmadust.com/drag-and-rearrange-uicollectionviews-through-layouts/)
 * [http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/)
+* [LXReorderableCollectionViewFlowLayout](https://github.com/lxcid/LXReorderableCollectionViewFlowLayout) - Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.
+* [LewReorderableLayout](https://github.com/pljhonglu/LewReorderableLayout) - 一个 UICollectionViewLayout，长按可以拖拽排序，同时支持纵向和横线滚动。
 
 ## Slider
 
