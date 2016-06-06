@@ -8,6 +8,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIButton](#uibutton) 
   - [UINavigationBar](#uinavigationbar)
   - [UICollectionView](#uicollectionview)
+  - [UIResponder](#uiresponder)
   - [Slider](#slider)
   - [WebBrowser](#webbrowser)
   - [Chart-图表控件](#chart-图表控件)
@@ -65,6 +66,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/)
 * [LXReorderableCollectionViewFlowLayout](https://github.com/lxcid/LXReorderableCollectionViewFlowLayout) - Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.
 * [LewReorderableLayout](https://github.com/pljhonglu/LewReorderableLayout) - 一个 UICollectionViewLayout，长按可以拖拽排序，同时支持纵向和横线滚动。
+
+## UIResponder
+
+* [史上最详细的iOS之事件的传递和响应机制](http://www.cnblogs.com/machao/p/5471094.html)
 
 ## Slider
 
