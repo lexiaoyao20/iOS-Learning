@@ -138,6 +138,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [黑魔法——“低版本中使用高版本中出现的类”之技术实现原理详解](http://www.jianshu.com/p/55180ade32d1)
 * [iOS中利用 runtime 一键改变字体](http://www.jianshu.com/p/b9fdd17c525e)
 * [从源代码看 ObjC 中消息的发送](http://draveness.me/message/)
+* [Objective-C Runtime 1小时入门教程](https://www.ianisme.com/ios/2019.html)
 
 # Category
 
