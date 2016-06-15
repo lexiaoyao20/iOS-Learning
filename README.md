@@ -166,6 +166,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 # 网络编程
 
 * [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html?20110811101638) - 它用图片通俗易懂地解释了，"数字签名"（digital signature）和"数字证书"（digital certificate）到底是什么。
+* [HTTP in iOS你看我就够](http://www.jianshu.com/p/42d9cc1dde10)
 
 # 重构
 
