@@ -213,6 +213,7 @@ Cocoapods系列教程
 * [如何写一个Pod，并发布到CocoaPods上 ](http://blog.csdn.net/becomedragonlong/article/details/45933345#0-tsina-1-22915-397232)
 * [CocoaPods的一些略为高级一丁点的使用](http://www.cocoachina.com/ios/20150916/13384.html)
 * [在Swift中使用CocoaPods](http://andelf.github.io/blog/2014/06/23/use-cocoapods-with-swift/)
+* [Creating Your First CocoaPod](http://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
 
 另外一个系列的教程
 * [Cocoapods系列教程(一)——入门](http://www.pluto-y.com/cocoapods-getting-stared/)
