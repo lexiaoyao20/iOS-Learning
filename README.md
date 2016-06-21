@@ -4,6 +4,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ### 目录
 
+- [基础](#基础)
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UITableView](#uitableview)
@@ -47,6 +48,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   
   
 ***
+
+# 基础
+
+* [instancetype 与 id for Objective-C](http://blog.csdn.net/wzzvictory/article/details/16994913)
 
 # 控件
 
