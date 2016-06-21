@@ -30,6 +30,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIImage](#uiimage)
 - [性能优化](#性能优化)
 - [设计模式](#设计模式)
+  - [MVVM](#mvvm)
 - [架构设计](#架构设计)
 - [网络编程](#网络编程)
 - [重构](#重构)
@@ -163,6 +164,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [iOS 中的设计模式 (Swift版本) Part 1 ](http://blog.callmewhy.com/2014/12/29/introducing-ios-design-patterns-in-swift-part-1/) - 原文英文版本请点击:[ Introducing iOS Design Patterns in Swift – Part 1/2 ](https://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-part-1)
 * [OODesign](http://www.oodesign.com/) - 一个介绍各个设计模式的网站
+
+## MVVM
+
+* [https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/](https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/)
 
 # 架构设计
 
