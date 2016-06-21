@@ -167,7 +167,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## MVVM
 
-* [https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/](https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/)
+* [Introduction to Protocol-Oriented MVVM](https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/)
 
 # 架构设计
 
