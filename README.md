@@ -175,6 +175,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [从NSArray看类簇](http://blog.sunnyxx.com/2014/12/18/class-cluster/)
 * [类簇在iOS开发中的应用](http://limboy.me/ios/2014/01/04/class-cluster.html)
+* [一个iOS菜菜的白话文记录 - Class Cluster 类簇](http://xiongzenghuidegithub.github.io/blog/2016/05/09/class-cluster-lei-cu/)
 
 ## MVVM
 
