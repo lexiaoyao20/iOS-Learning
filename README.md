@@ -192,6 +192,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS开发网络篇之文件下载、大文件下载、断点下载](http://www.jianshu.com/p/f65e32012f07?utm_source=tuicool)
 * [iOS多个网络请求串行或并发执行](http://xiongzenghuidegithub.github.io/blog/2015/10/28/iosduo-ge-wang-luo-qing-qiu-chuan-xing-huo-bing-fa-zhi-xing/)
 * [HTTPS理论基础及其在Android中的最佳实践 ](http://gold.xitu.io/entry/575ab9b36be3ff0069492bc6)
+* [iOS9之适配ATS](http://www.liuchungui.com/blog/2015/10/11/ios9zhi-gua-pei-ats/)
 
 # 重构
 
