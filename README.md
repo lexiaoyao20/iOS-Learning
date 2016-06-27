@@ -237,6 +237,7 @@ Cocoapods系列教程
 * [CocoaPods的简介及安装和使用 ](http://blog.csdn.net/eduora_meimei/article/details/44410373)
 * [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
 * [如何写一个Pod，并发布到CocoaPods上 ](http://blog.csdn.net/becomedragonlong/article/details/45933345#0-tsina-1-22915-397232)
+* [CocoaPods创建私有Pods](http://www.liuchungui.com/blog/2015/10/19/cocoapodschuang-jian-si-you-pods/)
 * [CocoaPods的一些略为高级一丁点的使用](http://www.cocoachina.com/ios/20150916/13384.html)
 * [在Swift中使用CocoaPods](http://andelf.github.io/blog/2014/06/23/use-cocoapods-with-swift/)
 * [Creating Your First CocoaPod](http://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
