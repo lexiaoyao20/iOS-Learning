@@ -193,6 +193,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS多个网络请求串行或并发执行](http://xiongzenghuidegithub.github.io/blog/2015/10/28/iosduo-ge-wang-luo-qing-qiu-chuan-xing-huo-bing-fa-zhi-xing/)
 * [HTTPS理论基础及其在Android中的最佳实践 ](http://gold.xitu.io/entry/575ab9b36be3ff0069492bc6)
 * [iOS9之适配ATS](http://www.liuchungui.com/blog/2015/10/11/ios9zhi-gua-pei-ats/)
+* [简析TCP的三次握手与四次分手](http://www.jellythink.com/archives/705)
 
 # 重构
 
