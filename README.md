@@ -170,6 +170,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 # 开源Or仿写App
 
 * [iOS高仿爱鲜蜂](http://www.jianshu.com/p/879f58fe3542) - 所用语言-Swift
+* [高仿小日子Swift2.0](http://www.jianshu.com/p/bcc297e19a94)
+* [iOS高仿城觅项目（开发思路和代码）](http://www.jianshu.com/p/8b0d694d1c69)
 
 # 设计模式
 
