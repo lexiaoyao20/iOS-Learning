@@ -40,6 +40,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [持续集成](#持续集成)
 - [Git教程](#git教程)
 - [书籍](#书籍)
+- [学习网址](#学习网址)
 - [工具](#工具)
   - [Xcode插件](#xcode插件)
   - [Cocoapods](#cocoapods)
@@ -225,6 +226,11 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 # 书籍
 
 * [禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）](https://github.com/oa414/objc-zen-book-cn)
+* [C4iOS - COSMOS](http://c4ios.swift.gg/) - C4iOS 是 C4 团队编写的一本开发教程，详细介绍了一个完整项目的开发过程，非常适合新手学习
+
+# 学习网址
+
+* [http://www.c4ios.com](http://www.c4ios.com/tutorials/)
 
 # 工具
 
