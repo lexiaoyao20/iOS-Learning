@@ -38,6 +38,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [网络编程](#网络编程)
 - [重构](#重构)
 - [持续集成](#持续集成)
+- [逆向与安全](#逆向与安全)
 - [Git教程](#git教程)
 - [书籍](#书籍)
 - [学习网址](#学习网址)
@@ -217,6 +218,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [豆瓣移动App持续集成和测试实践](http://wenku.it168.com/d_001515405.shtml)
 * [在已有项目上构建持续集成平台](http://www.jianshu.com/p/39e4c8654d44#ios)
 * [fir.im weekly - 「 持续集成 」实践教程合集](http://blog.fir.im/fir_im_weekly160505/)
+
+# 逆向与安全
+
+* [iOSAppHook](https://github.com/Urinx/iOSAppHook)- 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook
 
 # Git教程
 
