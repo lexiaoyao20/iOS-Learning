@@ -5,6 +5,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ### 目录
 
 - [基础](#基础)
+  - [CALayer](#calayer)
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UITableView](#uitableview)
@@ -57,6 +58,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 # 基础
 
 * [instancetype 与 id for Objective-C](http://blog.csdn.net/wzzvictory/article/details/16994913)
+
+## CALayer
+
+* [关于CAShapeLayer的一些实用案例和技巧](http://www.jianshu.com/p/a1e88a277975)
 
 # 控件
 
