@@ -210,6 +210,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [HTTPS理论基础及其在Android中的最佳实践 ](http://gold.xitu.io/entry/575ab9b36be3ff0069492bc6)
 * [iOS9之适配ATS](http://www.liuchungui.com/blog/2015/10/11/ios9zhi-gua-pei-ats/)
 * [简析TCP的三次握手与四次分手](http://www.jellythink.com/archives/705)
+* [HTTPS 初解](http://nathanli.cn/2016/03/18/https_learn_sample/)
 
 # 重构
 
