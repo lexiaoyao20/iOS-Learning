@@ -6,6 +6,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 - [基础](#基础)
   - [CALayer](#calayer)
+  - [Auto Layout](#auto-layout)
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UITableView](#uitableview)
@@ -62,6 +63,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## CALayer
 
 * [关于CAShapeLayer的一些实用案例和技巧](http://www.jianshu.com/p/a1e88a277975)
+
+## Auto Layout
+
+* [iOS 利用 Autolayout 实现 view 间隔自动调整](http://nathanli.cn/2016/07/09/autolayout_interval/)
 
 # 控件
 
