@@ -33,6 +33,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [Runtime](#runtime)
 - [Category](#category)
   - [UIImage](#uiimage)
+- [单元测试](#单元测试)
 - [性能优化](#性能优化)
 - [开源Or仿写App](#开源or仿写app)
 - [设计模式](#设计模式)
@@ -184,6 +185,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIImage
 
 * [iOS中使用blend改变图片颜色](https://onevcat.com/2013/04/using-blending-in-ios/) - 相应的[Demo](https://github.com/onevcat/VVImageTint)
+
+# 单元测试
+
+* [Xcode 6异步测试](http://www.cocoachina.com/cms/wap.php?action=article&id=10052)
 
 # 性能优化
 
