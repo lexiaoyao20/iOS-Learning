@@ -84,6 +84,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UINavigationBar
 
 * [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars! （ScorllView滚动时，自动隐藏和显示UINavigationBar）
+* Glow技术团队 - [动态修改UINavigationBar的背景色](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
 
 ## UICollectionView
 
