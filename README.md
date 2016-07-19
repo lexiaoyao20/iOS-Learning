@@ -244,6 +244,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [简析TCP的三次握手与四次分手](http://www.jellythink.com/archives/705)
 * [HTTPS 初解](http://nathanli.cn/2016/03/18/https_learn_sample/)
 * [从 NSURLConnection 到 NSURLSession](https://objccn.io/issue-5-4/)
+* [HTTP协议之multipart/form-data请求分析](http://blog.csdn.net/five3/article/details/7181521)
 
 # 重构
 
