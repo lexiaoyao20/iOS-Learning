@@ -7,6 +7,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [基础](#基础)
   - [CALayer](#calayer)
   - [Auto Layout](#auto-layout)
+  - [NSSecureCoding](#nssecurecoding)
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UITableView](#uitableview)
@@ -71,6 +72,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## Auto Layout
 
 * [iOS 利用 Autolayout 实现 view 间隔自动调整](http://nathanli.cn/2016/07/09/autolayout_interval/)
+
+## NSSecureCoding
+
+* [使用NSSecureCoding协议进行编解码](http://codingobjc.com/blog/2014/04/15/shi-yong-nssecurecodingxie-yi-jin-xing-bian-jie-ma/)
 
 # 控件
 
