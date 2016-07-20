@@ -233,6 +233,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [iOS移动端架构的那些事](http://www.jianshu.com/p/15e5b83ab70e)
 * [iOS项目的目录结构和开发流程](http://limboy.me/tech/2013/09/23/build-ios-application.html)
+* [iOS项目的目录结构](http://www.samirchen.com/ios-project-structure/)
 
 # 网络编程
 
