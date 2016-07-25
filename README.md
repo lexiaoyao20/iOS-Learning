@@ -18,7 +18,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIWebView](#uiwebview)
   - [Chart-图表控件](#chart-图表控件)
     - [K线图](#k线图)
-- [框架](#框架)
+- [框架-Framework](#框架-framework)
+  - [Create Framework](#create-framework)
   - [AVFoundation](#avfoundation)
   - [Quick Look Framework](#quick-look-framework)
   - [Quartz 2D](#quartz-2d)
@@ -129,7 +130,11 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [KlineInSwift](https://github.com/mengmanzbh/KlineInSwift) - 用swift写的K线图
 * [Y_KLine](https://github.com/yate1996/Y_KLine)
 
-# 框架
+# 框架-Framework
+
+## Create Framework
+
+* [Xcode7 中创建静态库：.a 和 .framework ](http://www.cnblogs.com/XYQ-208910/p/5157673.html)
 
 ## AVFoundation
 * [iOS视频边下边播](http://www.jianshu.com/p/990ee3db0563) - iOS视频边下边播--缓存播放数据流
