@@ -317,6 +317,7 @@ Cocoapods系列教程
 * [CocoaPods的一些略为高级一丁点的使用](http://www.cocoachina.com/ios/20150916/13384.html)
 * [在Swift中使用CocoaPods](http://andelf.github.io/blog/2014/06/23/use-cocoapods-with-swift/)
 * [Creating Your First CocoaPod](http://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
+* [使用 cocoapods 来管理基于 svn 的子项目](http://www.dehengxu.com/%E4%BD%BF%E7%94%A8-cocoapods-%E6%9D%A5%E7%AE%A1%E7%90%86%E5%9F%BA%E4%BA%8E-svn-%E9%A1%B9%E7%9B%AE/)
 
 另外一个系列的教程
 * [Cocoapods系列教程(一)——入门](http://www.pluto-y.com/cocoapods-getting-stared/)
