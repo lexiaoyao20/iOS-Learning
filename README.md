@@ -16,6 +16,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIResponder](#uiresponder)
   - [Slider](#slider)
   - [UIWebView](#uiwebview)
+  - [ImagePicker](#imagepicker)
   - [Chart-图表控件](#chart-图表控件)
     - [K线图](#k线图)
 - [框架-Framework](#框架-framework)
@@ -117,6 +118,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [KINWebBrowser](https://github.com/dfmuir/KINWebBrowser) - KINWebBrowser is a web browser module for your apps. Powered by WKWebView on iOS 8. Backwards compatible with iOS 7 using UIWebView.
 * [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)
+
+## ImagePicker
+
+* [仿照微信的效果，实现了一个支持多选、选原图和视频的图片选择器，适配了iOS6-9系统，3行代码即可集成.](http://www.cnblogs.com/tanzhenblog/p/5110981.html)
 
 ## Chart-图表控件
 
