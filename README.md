@@ -193,6 +193,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 # GCD
 * [GCD 使用指南](http://swift.gg/2016/05/05/the-gcd-handbook/) - 相应地英文原文：[http://khanlou.com/2016/04/the-GCD-handbook/](http://khanlou.com/2016/04/the-GCD-handbook/)
+* [【翻译】GCD Target Queues](http://www.jianshu.com/p/bd2609cac26b)
+* [选择 GCD 还是 NSTimer ？](http://www.jianshu.com/p/0c050af6c5ee) - 延迟任务执行的最佳实践
 
 # Runtime
 
@@ -351,3 +353,5 @@ Cocoapods系列教程
 ### 语法
 * [markdown简明语法](http://ibruce.info/2013/11/26/markdown/)
 * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+
+
