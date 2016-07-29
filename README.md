@@ -195,6 +195,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [GCD 使用指南](http://swift.gg/2016/05/05/the-gcd-handbook/) - 相应地英文原文：[http://khanlou.com/2016/04/the-GCD-handbook/](http://khanlou.com/2016/04/the-GCD-handbook/)
 * [【翻译】GCD Target Queues](http://www.jianshu.com/p/bd2609cac26b)
 * [选择 GCD 还是 NSTimer ？](http://www.jianshu.com/p/0c050af6c5ee) - 延迟任务执行的最佳实践
+* [细说GCD（Grand Central Dispatch）如何用](https://github.com/ming1016/study/wiki/%E7%BB%86%E8%AF%B4GCD%EF%BC%88Grand-Central-Dispatch%EF%BC%89%E5%A6%82%E4%BD%95%E7%94%A8)
 
 # Runtime
 
