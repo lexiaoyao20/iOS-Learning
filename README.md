@@ -84,6 +84,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIButton
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
 * [UIButton 的 imageEdgeInsets 和 titleEdgeInsets](http://www.jianshu.com/p/62850b201049)
+* [Runtime优雅的解决UIButton多次点击(重复点击)](http://www.jianshu.com/p/e4f1fb537af9)
 
 ## UITableView
 
@@ -117,6 +118,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIWebView
 
 * [KINWebBrowser](https://github.com/dfmuir/KINWebBrowser) - KINWebBrowser is a web browser module for your apps. Powered by WKWebView on iOS 8. Backwards compatible with iOS 7 using UIWebView.
+* [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController是一款易用的基于UIWebView封装的网页浏览控制器. 在系统功能的基础上添加了工具条导航，可以刷新、返回、前进、等操作，同时，AXWebViewController还实现了微信样式的导航返回支持，集成简单，使用方便。
+* [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController) - A simple web browser for iPhone & iPad with similar features than Safari's
 * [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)
 
 ## ImagePicker
@@ -204,6 +207,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS中利用 runtime 一键改变字体](http://www.jianshu.com/p/b9fdd17c525e)
 * [从源代码看 ObjC 中消息的发送](http://draveness.me/message/)
 * [Objective-C Runtime 1小时入门教程](https://www.ianisme.com/ios/2019.html)
+* [iOS黑魔法学习笔记](http://www.jianshu.com/p/d418bac032fa)
 
 # Category
 
