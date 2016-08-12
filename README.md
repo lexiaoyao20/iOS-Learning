@@ -126,7 +126,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIScrollView
 
 * [Understanding UIScrollView](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
-* [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics]
+* [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics](http://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
 * [用UIKit Dynamics模仿UIScrollView](http://philcai.com/2016/03/15/%E7%94%A8UIKit-Dynamics%E6%A8%A1%E4%BB%BFUIScrollView/)
 
 ## ImagePicker
