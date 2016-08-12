@@ -285,6 +285,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [iOSAppHook](https://github.com/Urinx/iOSAppHook)- 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook
 * [iOS安全系列之二：HTTPS进阶](http://oncenote.com/2015/09/16/Security-2-HTTPS2/)
+* [iOS逆向工程（工具介绍）- 学习整理](http://www.jianshu.com/p/2d2c492a283c)
 
 # Git教程
 
