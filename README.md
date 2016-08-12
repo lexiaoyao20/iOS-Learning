@@ -16,6 +16,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIResponder](#uiresponder)
   - [Slider](#slider)
   - [UIWebView](#uiwebview)
+  - [UIScrollView](#uiscrollview)
   - [ImagePicker](#imagepicker)
   - [Chart-图表控件](#chart-图表控件)
     - [K线图](#k线图)
@@ -120,7 +121,13 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [KINWebBrowser](https://github.com/dfmuir/KINWebBrowser) - KINWebBrowser is a web browser module for your apps. Powered by WKWebView on iOS 8. Backwards compatible with iOS 7 using UIWebView.
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController是一款易用的基于UIWebView封装的网页浏览控制器. 在系统功能的基础上添加了工具条导航，可以刷新、返回、前进、等操作，同时，AXWebViewController还实现了微信样式的导航返回支持，集成简单，使用方便。
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController) - A simple web browser for iPhone & iPad with similar features than Safari's
-* [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)
+* [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)(http://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
+
+## UIScrollView
+
+* [Understanding UIScrollView](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
+* [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics]
+* [用UIKit Dynamics模仿UIScrollView](http://philcai.com/2016/03/15/%E7%94%A8UIKit-Dynamics%E6%A8%A1%E4%BB%BFUIScrollView/)
 
 ## ImagePicker
 
