@@ -187,6 +187,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [ YTKNetwork](https://github.com/yuantiku/YTKNetwork)- YTKNetwork 是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，其实现了一套 High Level 的 API，提供了更高层次的网络访问抽象
 * [YTKNetworkAnalysis](https://github.com/subvin/YTKNetworkAnalysis) -  YTKNetwork 网络框架详细分析与使用说明。 
 
+### RBEFireworks
+
+* [RBEFireworks](https://github.com/robbie23/RBEFireworks) - RBEFireworks is a feature rich and flexible library. It deals with common demands of network components, and makes the programming of network requests easier. Based on AFNetworking3.x(NSURLSession), it reaches a higher level of abstraction, and takes references of the enlightening ideas from YTKNetwork.
+
 # 动画
 
 ## 开源的动画框架
