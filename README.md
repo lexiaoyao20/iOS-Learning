@@ -80,6 +80,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [使用NSSecureCoding协议进行编解码](http://codingobjc.com/blog/2014/04/15/shi-yong-nssecurecodingxie-yi-jin-xing-bian-jie-ma/)
 
+## UIImage
+
+* [如何正确使用UIImage加载图片](http://chausson.github.io/2016/07/04/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8UIImage%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87/)
+
 # 控件
 
 ## UIButton
@@ -122,6 +126,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController是一款易用的基于UIWebView封装的网页浏览控制器. 在系统功能的基础上添加了工具条导航，可以刷新、返回、前进、等操作，同时，AXWebViewController还实现了微信样式的导航返回支持，集成简单，使用方便。
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController) - A simple web browser for iPhone & iPad with similar features than Safari's
 * [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)(http://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
+* [UIWebView与WKWebView](http://chausson.github.io/2016/08/09/UIWebView%E4%B8%8EWKWebView/)
 
 ## UIScrollView
 
@@ -293,6 +298,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOSAppHook](https://github.com/Urinx/iOSAppHook)- 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook
 * [iOS安全系列之二：HTTPS进阶](http://oncenote.com/2015/09/16/Security-2-HTTPS2/)
 * [iOS逆向工程（工具介绍）- 学习整理](http://www.jianshu.com/p/2d2c492a283c)
+* [浅谈 iOS 关键代码的混淆](http://darktechlabs.com/2016/08/10/%E6%B5%85%E8%B0%88-iOS-%E5%85%B3%E9%94%AE%E4%BB%A3%E7%A0%81%E7%9A%84%E6%B7%B7%E6%B7%86/#0-tsina-1-6746-397232819ff9a47a7b7e80a40613cfe1)
 
 # Git教程
 
