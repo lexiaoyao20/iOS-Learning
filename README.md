@@ -127,6 +127,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController) - A simple web browser for iPhone & iPad with similar features than Safari's
 * [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)(http://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
 * [UIWebView与WKWebView](http://chausson.github.io/2016/08/09/UIWebView%E4%B8%8EWKWebView/)
+* [UIWebView体系结构（一）概貌](http://blog.csdn.net/hursing/article/details/8771847)
 
 ## UIScrollView
 
