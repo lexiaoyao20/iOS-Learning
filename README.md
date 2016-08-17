@@ -208,6 +208,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS 7 UIKit Dynamic 学习总结](http://vit0.com/blog/2014/03/08/ios-7-uikit-dynamic-xue-xi-zong-jie/) - iOS 7 中推出的UIKit Dynamics，主要带来了模拟现实的二维动画效果，Apple 的高度封装让开发者不用知道太多物理知识也可以开发出逼真的物理动画。
 * [iOS动画（Core Animation）总结](http://www.jianshu.com/p/dfe084fadfc2)
 * [谈UIView Animation编程艺术](http://www.jianshu.com/p/51ce7966a038)
+* [iOS核心动画高级技巧](https://github.com/AlfredTheBest/iOS_core_animation)
 
 # 并发-多线程
 
