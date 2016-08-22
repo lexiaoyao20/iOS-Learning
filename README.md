@@ -105,6 +105,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [UICollectionView 使用 介绍](http://blog.csdn.net/sqc3375177/article/details/17218455)
 * [WWDC 2012 Session笔记——205 Introducing Collection Views](https://onevcat.com/2012/06/introducing-collection-views/)
 * [WWDC 2012 Session笔记——219 Advanced Collection Views and Building Custom Layouts](https://onevcat.com/2012/08/advanced-collection-view/)
+* [iOS仿网易新闻栏目拖动重排添加删除效果](http://www.huangyibiao.com/archives/1337)
 
 拖拽排序功能实现：
 * [通过layout实现可拖拽自动排序的UICollectionView](http://www.jianshu.com/p/8d1bf1838882) - 英文[原文](http://blog.karmadust.com/drag-and-rearrange-uicollectionviews-through-layouts/)
@@ -178,6 +179,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [苹果开源框架ResearchKit简介](http://www.cocoachina.com/ios/20160426/16019.html) - ResearchKit 是一个由 Apple 推出的开源框架，它可以让研究人员和开发人员创建用于医疗研究的强大应用。您可以轻松地使用各种各样的可定制模块，您还可以在这些模块的基础上创建可视化授权工作流、实时的动态活动任务，以及调查报告，然后将它们与社区一同分享。由于 ResearchKit 能够与 HealthKit 无缝衔接，因此研究人员可以在他们的研究中获取更多有关的数据——例如日常步数、消耗的卡路里，以及心率等信息。
 
 ## 第三方框架
+
+* [深入解析 iOS 开源项目](https://github.com/draveness/iOS-Source-Code-Analyze)
 
 ### AFNetworking
 
