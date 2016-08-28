@@ -185,6 +185,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ### AFNetworking
 
 * polobymulberry的 [AFNetworking源码阅读系列](http://www.cnblogs.com/polobymulberry/category/785705.html)
+* [通读AFN③--HTTPS访问控制(AFSecurityPolicy)，Reachability(AFNetworkReachabilityManager)](http://www.cnblogs.com/Mike-zh/p/5174238.html)
 
 ### YTKNetwork
 
@@ -287,6 +288,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [HTTPS 初解](http://nathanli.cn/2016/03/18/https_learn_sample/)
 * [从 NSURLConnection 到 NSURLSession](https://objccn.io/issue-5-4/)
 * [HTTP协议之multipart/form-data请求分析](http://blog.csdn.net/five3/article/details/7181521)
+* [iOS安全系列之一：HTTPS](http://oncenote.com/2014/10/21/Security-1-HTTPS/)
+* [iOS安全系列之二：HTTPS进阶](http://oncenote.com/2015/09/16/Security-2-HTTPS2/)
 
 # 重构
 
