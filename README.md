@@ -186,6 +186,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * polobymulberry的 [AFNetworking源码阅读系列](http://www.cnblogs.com/polobymulberry/category/785705.html)
 * [通读AFN③--HTTPS访问控制(AFSecurityPolicy)，Reachability(AFNetworkReachabilityManager)](http://www.cnblogs.com/Mike-zh/p/5174238.html)
+* [AFNetworking 3.1源码解析](http://www.cnblogs.com/qiutangfengmian/tag/AFNetworking/)
 
 ### YTKNetwork
 
