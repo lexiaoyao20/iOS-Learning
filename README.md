@@ -343,6 +343,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * 365日历 技术点滴 - [抓包工具Charles使用教程](http://tech.365rili.com/?p=57)
 * 唐巧的技术博客 - [Charles 从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
+* [使用 Charles 获取 https 的数据](http://www.jianshu.com/p/235bc6c3ca77)
 
 ## Cocoapods
 
