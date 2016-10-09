@@ -75,6 +75,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## Auto Layout
 
 * [iOS 利用 Autolayout 实现 view 间隔自动调整](http://nathanli.cn/2016/07/09/autolayout_interval/)
+* [Using Identifiers to Debug Autolayout](http://useyourloaf.com/blog/using-identifiers-to-debug-autolayout/)
+* [Debugging iOS AutoLayout Issues](http://staxmanade.com/2015/06/debugging-ios-autolayout-issues/)
 
 ## NSSecureCoding
 
