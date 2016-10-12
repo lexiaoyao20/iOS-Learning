@@ -60,7 +60,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [Markdown](#markdown)
     - [在线编辑器](#在线编辑器)
     - [语法](语法)
-  
+ - [一些优秀的博客收藏](#一些优秀的博客收藏)
   
 ***
 
@@ -280,6 +280,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS项目的目录结构和开发流程](http://limboy.me/tech/2013/09/23/build-ios-application.html)
 * [iOS项目的目录结构](http://www.samirchen.com/ios-project-structure/)
 * [iOS使用自定义URL实现控制器之间的跳转](http://www.jianshu.com/p/36a43202b0cd)
+* [iOS应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
 
 # 网络编程
 
@@ -390,5 +391,8 @@ Cocoapods系列教程
 ### 语法
 * [markdown简明语法](http://ibruce.info/2013/11/26/markdown/)
 * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+
+## 一些优秀的博客收藏
+
 
 
