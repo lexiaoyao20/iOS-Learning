@@ -10,6 +10,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [NSSecureCoding](#nssecurecoding)
 - [控件](#控件)
   - [UIButton](#uibutton) 
+  - [UISwitch](#uiswitch)
   - [UITableView](#uitableview)
   - [UINavigationBar](#uinavigationbar)
   - [UICollectionView](#uicollectionview)
@@ -93,6 +94,9 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 可以设置`UIButton`的*Text*和*Image*的相对位置，如上下左右等。
 * [UIButton 的 imageEdgeInsets 和 titleEdgeInsets](http://www.jianshu.com/p/62850b201049)
 * [Runtime优雅的解决UIButton多次点击(重复点击)](http://www.jianshu.com/p/e4f1fb537af9)
+
+## UISwitch
+* [How to create a percentage driven animation](http://iostuts.io/2015/10/15/how-to-make-amazing-custom-switch/)
 
 ## UITableView
 
