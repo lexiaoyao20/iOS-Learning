@@ -8,6 +8,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [CALayer](#calayer)
   - [Auto Layout](#auto-layout)
   - [NSSecureCoding](#nssecurecoding)
+  - [UIImage](#uiimage)
+  - [Block](#block)
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UISwitch](#uiswitch)
@@ -87,6 +89,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UIImage
 
 * [如何正确使用UIImage加载图片](http://chausson.github.io/2016/07/04/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8UIImage%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87/)
+
+## Block
+* [谈Objective-C block的实现](http://blog.devtang.com/2013/07/28/a-look-inside-blocks/)
+* [让我们来深入浅出block吧](http://www.jianshu.com/p/e03292674e60)
 
 # 控件
 
