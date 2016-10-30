@@ -327,6 +327,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS安全系列之二：HTTPS进阶](http://oncenote.com/2015/09/16/Security-2-HTTPS2/)
 * [iOS逆向工程（工具介绍）- 学习整理](http://www.jianshu.com/p/2d2c492a283c)
 * [浅谈 iOS 关键代码的混淆](http://darktechlabs.com/2016/08/10/%E6%B5%85%E8%B0%88-iOS-%E5%85%B3%E9%94%AE%E4%BB%A3%E7%A0%81%E7%9A%84%E6%B7%B7%E6%B7%86/#0-tsina-1-6746-397232819ff9a47a7b7e80a40613cfe1)
+* [手把手教你反编译别人的app](http://www.jianshu.com/p/10873c5c1e08)
 
 # Git教程
 
