@@ -13,6 +13,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UISwitch](#uiswitch)
+  - [UIStackView](#uistackview)
   - [UITableView](#uitableview)
   - [UINavigationBar](#uinavigationbar)
   - [UICollectionView](#uicollectionview)
@@ -103,6 +104,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## UISwitch
 * [How to create a percentage driven animation](http://iostuts.io/2015/10/15/how-to-make-amazing-custom-switch/)
+
+## UIStackView
+* [iOS 9: UIStackView入门](http://www.cocoachina.com/ios/20150623/12233.html)
+* [iOS9 UIStackView 简介](https://segmentfault.com/a/1190000004828070)
 
 ## UITableView
 
