@@ -13,6 +13,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [控件](#控件)
   - [UIButton](#uibutton) 
   - [UISwitch](#uiswitch)
+  - [ActivityIndicatorView](#activityindicatorview)
   - [UIStackView](#uistackview)
   - [UITableView](#uitableview)
   - [UINavigationBar](#uinavigationbar)
@@ -106,6 +107,12 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 ## UISwitch
 * [How to create a percentage driven animation](http://iostuts.io/2015/10/15/how-to-make-amazing-custom-switch/)
+
+## ActivityIndicatorView
+
+* [Custom activity indicators using a replicator layer](http://ronnqvi.st/custom-activity-indicators-using-a-replicator-layer/)
+* [ReplicatorLayerDEMO](https://github.com/lsysun1/ReplicatorLayerDEMO)
+* [AMPActivityIndicator](https://github.com/alexito4/AMPActivityIndicator) - Customizable UIActivityIndicatorView 
 
 ## UIStackView
 * [iOS 9: UIStackView入门](http://www.cocoachina.com/ios/20150623/12233.html)
@@ -212,6 +219,11 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [ YTKNetwork](https://github.com/yuantiku/YTKNetwork)- YTKNetwork 是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，其实现了一套 High Level 的 API，提供了更高层次的网络访问抽象
 * [YTKNetworkAnalysis](https://github.com/subvin/YTKNetworkAnalysis) -  YTKNetwork 网络框架详细分析与使用说明。 
+
+### Protocol Buffers
+
+* [Protocol Buffers for Obj-C and Apple Swift](http://protobuf.io/#objc)
+* [验证proto数据](http://yura415.github.io/js-protobuf-encode-decode/)
 
 ### RBEFireworks
 
