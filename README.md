@@ -45,6 +45,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [UIImage](#uiimage)
 - [单元测试](#单元测试)
 - [性能优化](#性能优化)
+- [调试技巧](#调试技巧)
 - [App瘦身](#app瘦身)
 - [代码签名](#代码签名)
 - [开源Or仿写App](#开源or仿写app)
@@ -283,6 +284,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [浅谈iOS中的视图优化](http://www.jianshu.com/p/5c968a240e27)
 * [iOS 性能调优,成为一名合格iOS程序员必须掌握的技能](http://www.jianshu.com/p/05b68c84913a)
 
+## 调试技巧
+
+* [如何用Xcode8解决多线程问题](http://mp.weixin.qq.com/s/G6toqzbF5dEKemSg6H7DRg)
+
 ## App瘦身
 
 * [使用Swift3开发了个MacOS的程序可以检测出objc项目中无用方法，然后一键全部清理](http://www.starming.com/index.php?v=index&view=104)
@@ -363,6 +368,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [Pro Git 第二版](https://git-scm.com/book/zh/v2) - 学习Git不错的入门教程
 * [Pro Git 第一版](http://git.oschina.net/progit/)
 * [廖雪峰的官方网站 - Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 # 书籍
 
