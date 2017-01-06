@@ -283,6 +283,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [离屏渲染优化](http://www.jianshu.com/p/ca51c9d3575b)
 * [浅谈iOS中的视图优化](http://www.jianshu.com/p/5c968a240e27)
 * [iOS 性能调优,成为一名合格iOS程序员必须掌握的技能](http://www.jianshu.com/p/05b68c84913a)
+* [iOS 页面性能优化](https://gold.xitu.io/post/58667d86128fe10057eae0d2?utm_source=gold_browser_extension)
 
 ## 调试技巧
 
