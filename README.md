@@ -355,6 +355,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [豆瓣移动App持续集成和测试实践](http://wenku.it168.com/d_001515405.shtml)
 * [在已有项目上构建持续集成平台](http://www.jianshu.com/p/39e4c8654d44#ios)
 * [fir.im weekly - 「 持续集成 」实践教程合集](http://blog.fir.im/fir_im_weekly160505/)
+* [iOS自动签名打包(xcodebuild)](http://www.jianshu.com/p/722adedaa3bf)
 
 # 逆向与安全
 
