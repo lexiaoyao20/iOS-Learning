@@ -41,6 +41,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 - [并发-多线程](#并发-多线程)
   - [GCD](#gcd)
 - [Runtime](#runtime)
+- [RunLoop](#runloop)
 - [Category](#category)
   - [UIImage](#uiimage)
 - [单元测试](#单元测试)
@@ -264,6 +265,10 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [从源代码看 ObjC 中消息的发送](http://draveness.me/message/)
 * [Objective-C Runtime 1小时入门教程](https://www.ianisme.com/ios/2019.html)
 * [iOS黑魔法学习笔记](http://www.jianshu.com/p/d418bac032fa)
+
+# RunLoop
+
+* [iOS RunLoop详解](http://www.imlifengfeng.com/blog/?p=487)
 
 # Category
 
