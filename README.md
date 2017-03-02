@@ -338,6 +338,8 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS项目的目录结构](http://www.samirchen.com/ios-project-structure/)
 * [iOS使用自定义URL实现控制器之间的跳转](http://www.jianshu.com/p/36a43202b0cd)
 * [iOS应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
+* [手机天猫解耦之路](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112904&idx=1&sn=1a8a830b871750c3467a20bba9408793&chksm=844c6c15b33be503e21379779fdb7826088bcb90b0e77f7be43273d6e24dfd9aa7e5162d03d7&scene=21#wechat_redirect)
+* [BeeHive，一次iOS模块化解耦实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113109&idx=1&sn=77a36cdcec5d79f9d29fc85c14723cec)
 
 # 网络编程
 
