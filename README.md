@@ -123,6 +123,13 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 ## UITableView
 
 * [Protocol Oriented UITableViewCells](http://bizz84.github.io/2016/06/18/Protocol-Oriented-UITableViewCells.html?utm_content=buffer05450&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&utm_source=sendy&utm_medium=email&utm_campaign=sticker-pack)
+* [iOS实现多个可变cell复杂界面的制作](http://www.jianshu.com/p/9fc838d46f5e)
+* [复杂界面开发之所思](http://www.jianshu.com/p/a5a898a63c07)
+* [更轻量的 View Controllers](https://www.objccn.io/issue-1-1/)
+* [整洁的 Table View 代码](https://www.objccn.io/issue-1-2/)
+* [Pro iOS Table Views: for iPhone, iPad, and iPod touch](https://www.amazon.com/Pro-iOS-Table-Views-iPhone/dp/1430233486/ref=sr_1_2?ie=UTF8&qid=1486305485&sr=8-2&keywords=Pro+iOS+Table+Views)
+* [通过实现TableView来理解IOS编程](https://www.gitbook.com/book/yishuiliunian/implementate-tableview-to-understand-ios/details)
+* [“模拟源码”](https://github.com/BigZaphod/Chameleon/blob/master/UIKit/Classes/UITableView.m)
 
 ## UINavigationBar
 
