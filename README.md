@@ -36,6 +36,7 @@ iOS学习资源整理，包含一些开源组件和博客文章。
   - [第三方框架](#第三方框架)
     - [AFNetworking](#afnetworking)
     - [YTKNetwork](#ytknetwork)
+    - [AsyncDisplayKit](#asyncdisplaykit)
 - [动画](#动画)
   - [开源的动画框架](#开源的动画框架)
     - [pop](#pop)
@@ -239,6 +240,11 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 
 * [ YTKNetwork](https://github.com/yuantiku/YTKNetwork)- YTKNetwork 是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，其实现了一套 High Level 的 API，提供了更高层次的网络访问抽象
 * [YTKNetworkAnalysis](https://github.com/subvin/YTKNetworkAnalysis) -  YTKNetwork 网络框架详细分析与使用说明。 
+
+### AsyncDisplayKit
+
+
+* [AsyncDisplayKit 2.0 Tutorial: Getting Started](https://www.raywenderlich.com/124311/asyncdisplaykit-2-0-tutorial-getting-started) - 对应翻译链接[http://www.bijishequ.com/detail/203074?p=18](http://www.bijishequ.com/detail/203074?p=18)
 
 ### Protocol Buffers
 
