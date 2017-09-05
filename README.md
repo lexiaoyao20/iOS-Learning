@@ -315,6 +315,9 @@ iOS学习资源整理，包含一些开源组件和博客文章。
 * [iOS 页面性能优化](https://gold.xitu.io/post/58667d86128fe10057eae0d2?utm_source=gold_browser_extension)
 * [MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/)
 
+* [关于Xcode编译性能优化的研究工作总结](http://blog.csdn.net/qq_25131687/article/details/52194034)
+* [如何将 iOS 工程打包速度提升十倍以上](https://juejin.im/post/59a2cffdf265da249b090f15?utm_source=gold_browser_extension)
+
 ## 调试技巧
 
 * [如何用Xcode8解决多线程问题](http://mp.weixin.qq.com/s/G6toqzbF5dEKemSg6H7DRg)
