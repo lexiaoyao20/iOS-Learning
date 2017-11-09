@@ -516,5 +516,7 @@ Cocoapods系列教程
 * [samirchen](http://www.samirchen.com/)
 * [LEE's博客](https://www.lee1994.com/)
 * [Applikey](https://applikeysolutions.com/blog)
+* [GUA](http://www.desgard.com/)
+* [kemchenj](https://kemchenj.github.io/)
 
 
