@@ -479,7 +479,7 @@ Cocoapods系列教程
 
 ## 一些优秀的博客收藏
 
-* [Starming星光社](http://www.starming.com/index.php?node=4)
+* [Starming星光社](http://www.starming.com/)
 * [bestswifter](https://bestswifter.com/#open)
 * [MrPeak杂货铺](http://mrpeak.cn/)
 * [老谭笔记](http://www.tanhao.me/)
